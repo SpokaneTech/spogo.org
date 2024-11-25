@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Spokane Go Users Group"
-  text: Gophers in Spokane
-  tagline: "Welcome to the Spokane Go Users Group documentation site."
+  name: "Spokane Go Users"
+  text: "Learn Go. Meet other gophers. Build cool stuff."
+  tagline: "Faster than Python, more fun than Rust. (no shade)"
   image:
       src: https://gitlab.com/uploads/-/system/group/avatar/97516866/IMG_3076.png
   

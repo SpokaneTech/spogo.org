@@ -14,7 +14,7 @@ const vitePressOptions = {
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Meetups', link: '/Meetups' },
+      { text: 'Meetups', link: '/meetups/' },
     ],
     
     socialLinks: [
