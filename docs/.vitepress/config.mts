@@ -21,7 +21,7 @@ const vitePressOptions = {
       { icon: 'gitlab', link: 'https://gitlab.com/spokane-go' }
     ],
     editLink: {
-      pattern: 'https://gitlab.com/spokane-go/spokane-go-docs/-/edit/master/docs/:path'
+      pattern: 'https://gitlab.com/spokane-go/spokane-go-docs/-/edit/main/docs/:path'
     },
     footer: {
       copyright: 'Copyright © All the years. Whoever wrote it.',
@@ -32,7 +32,7 @@ const vitePressOptions = {
 
   },
   lastUpdated: true,
-  srcExclude: ['**/old-confluence/**'],
+  srcExclude: [],
   outDir: '../public',
 
 };

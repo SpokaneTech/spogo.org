@@ -81,9 +81,9 @@
 }
 
 .dark { /* dark mode links */
-  --vp-c-brand-1: #02649cef;
-  --vp-c-brand-2: #00e4f0;
-  --vp-c-brand-3: #073099;
+  --vp-c-brand-1: #31acf4ef;
+  --vp-c-brand-2: #6ca0ef;
+  --vp-c-brand-3: #174fdf;
 --vp-c-brand-soft: rgba(71, 202, 255, 0.1);
 }
 
@@ -118,7 +118,7 @@
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
     #34bbfe 50%,
-    #1a6264 50%
+    #aec2fa 50%
   );
   --vp-home-hero-image-filter: blur(44px);
 }
