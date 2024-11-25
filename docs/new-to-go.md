@@ -24,6 +24,7 @@ A few things that you might use every day that were built with Go include things
 * [Awesome Go/](https://awesome-go.com/) - A curated list of Go frameworks, libraries, and software.
 * [r/golang](https://www.reddit.com/r/golang/) - A subreddit for Go developers.
 * [Gophers Slack](https://gophers.slack.com/) - A Slack community for Go developers.
+* [Spokane Tech Group Discord](https://discord.gg/B9dfrQVD) - A Discord server for the Spokane Tech Group. Join the Go channel to chat with other Go developers in the area.
 
 ## Installing Go
 

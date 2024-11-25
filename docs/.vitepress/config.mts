@@ -18,7 +18,9 @@ const vitePressOptions = {
     ],
     
     socialLinks: [
-      { icon: 'gitlab', link: 'https://gitlab.com/spokane-go' }
+      { icon: 'gitlab', link: 'https://gitlab.com/spokane-go' },
+      { icon: 'discord', link: 'https://discord.gg/B9dfrQVD' },
+      { icon: 'meetup', link: 'https://www.meetup.com/spokane-go-users-group' },
     ],
     editLink: {
       pattern: 'https://gitlab.com/spokane-go/spokane-go-docs/-/edit/main/docs/:path'

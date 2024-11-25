@@ -20,7 +20,7 @@ features:
       link: /meetups
       details: What have we been up to?
     - title: Calendar
-      link: /calendar
+      link: https://www.meetup.com/spokane-go-users-group/events
       details: When is the next meetup?
 ---
 
