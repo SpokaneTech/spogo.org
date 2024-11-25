@@ -7,7 +7,7 @@ editLink: true
 
 If you know nothing about Go, here are a few key or interesting points that make it a great tool for our toolbox:
 
-* It is strongly typed and compiles to machine code so it is very fast.
+* It is statically typed and compiles to machine code so it is very fast.
 * Compiling Go code is very fast, even for large projects. The Go compiler itself is written in Go.
 * It has built-in support for concurrent programming with goroutines and channels.
 * The standard library comes with everything you need to build web servers, handle HTTP requests, work with databases, and all of the usual tasks.
