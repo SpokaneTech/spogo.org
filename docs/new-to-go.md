@@ -26,9 +26,34 @@ A few things that you might use every day that were built with Go include things
 * [Gophers Slack](https://gophers.slack.com/) - A Slack community for Go developers.
 * [Spokane Tech Group Discord](https://discord.gg/B9dfrQVD) - A Discord server for the Spokane Tech Group. Join the Go channel to chat with other Go developers in the area.
 
+## Joe Riddle's Links
+
+### Learn go
+- [Tour of Go](https://go.dev/tour/welcome/1)
+- [How to Write Go Code](https://go.dev/doc/code)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Practical Go](https://dave.cheney.net/practical-go)
+- Read the stdlib
+- [Go by example](https://gobyexample.com/)
+### Further Readings
+- [Go at Google: Language Design in the Service of Software Engineering](https://go.dev/talks/2012/splash.article)
+### Videos to Watch
+- [An Introduction To Generics (Official)](https://go.dev/blog/intro-generics)
+- [Interfaces 101 : Implementing Generics with Interfaces](https://www.youtube.com/watch?v=34ZmIfWOb0U)
+- [A gentle introduction to Pointers](https://www.alexedwards.net/blog/a-gentle-introduction-to-pointers)
+- [Go – On The Shoulders of Giants](https://spf13.com/presentation/on-the-shoulders-of-giants/)
+- [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)
+- [Go Class](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
+### Links
+- [Builtins](https://pkg.go.dev/builtin)
+- [Type assertions](https://go.dev/tour/methods/15)
+- [Go source code](https://cs.opensource.google/go/go/+/refs/tags/go1.21.0:src/)
+- [`Printf` specifiers](https://cplusplus.com/reference/cstdio/printf/)
+
+
 ## Installing Go
 
-To install Go, use brew:
+To install Go on a mac, use brew:
 
 ```bash
 brew install go
