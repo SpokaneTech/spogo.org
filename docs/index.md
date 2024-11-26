@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: New To Go? Start Here
-      link: /new-to-go.md
+      link: /resources/new-to-go.md
 
 
 features:
