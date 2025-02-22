@@ -18,7 +18,7 @@ const vitePressOptions = {
     ],
     
     socialLinks: [
-      { icon: 'github', link: 'https://gitlab.com/spokane-tech' },
+      { icon: 'github', link: 'https://github.com/spokane-tech' },
       { icon: 'discord', link: 'https://discord.gg/B9dfrQVD' },
       { icon: 'meetup', link: 'https://www.meetup.com/spokane-go-users-group' },
     ],
